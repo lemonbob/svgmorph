@@ -1,4 +1,4 @@
-# svgmorph
+# Svg Morph
 High Speed SVG Morphing
 
 ## [morph.polymathicdesign.com](http:/morph.polymathicdesign.com)
