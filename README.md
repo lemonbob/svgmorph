@@ -3,8 +3,6 @@ High Speed SVG Morphing
 
 ## [morph.polymathicdesign.com](http:/morph.polymathicdesign.com)
 
-Optimization of todoMVC project with attention to DOM/render-tree optimization, and MVC architecture to ensure proper decoupling of Model View and Controller components.
-
 **High Speed Morphing of SVG paths 100+ paths at 60fps and 4000 vector points** 
 
 Module will morph one SVG path to another. It can morph upto 100 paths simultaneously at 60fps 
